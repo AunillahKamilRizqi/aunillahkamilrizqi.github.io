@@ -1,5 +1,6 @@
 {
   "name": "portfolio",
+  "homepage": "https://AunillahKamilRizqi.github.io/aunillahkamilrizqi/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,6 +15,7 @@
     "fittext": "^1.0.1",
     "flexslider": "^2.7.2",
     "font-awesome": "^4.7.0",
+    "gh-pages": "^6.3.0",
     "jquery": "^3.7.1",
     "magnific-popup": "^1.2.0",
     "particles-bg": "^2.5.5",
