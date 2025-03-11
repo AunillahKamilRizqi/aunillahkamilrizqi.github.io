@@ -1,0 +1,44 @@
+{
+  "name": "portfolio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tsparticles/react": "^3.0.0",
+    "fittext": "^1.0.1",
+    "flexslider": "^2.7.2",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.7.1",
+    "magnific-popup": "^1.2.0",
+    "particles-bg": "^2.5.5",
+    "react": "^19.0.0",
+    "react-awesome-reveal": "^4.3.1",
+    "react-dom": "^19.0.0",
+    "react-ga4": "^2.1.0",
+    "react-icons": "^5.5.0",
+    "react-particles": "^2.12.2",
+    "react-router-dom": "^7.3.0",
+    "react-tsparticles": "^2.12.2",
+    "react-zmage": "^0.8.5-beta.37",
+    "tsparticles": "^3.8.1",
+    "tsparticles-slim": "^2.12.0",
+    "waypoints": "^4.0.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.21.0",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^15.15.0",
+    "vite": "^6.2.0"
+  }
+}

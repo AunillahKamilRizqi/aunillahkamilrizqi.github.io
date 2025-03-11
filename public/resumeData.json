@@ -1,0 +1,168 @@
+{
+    "main": {
+        "name" : "Aunillah Kamil Rizqi",
+        "description" : "Saya seorang Front End  || Data Analsyt",
+        "image" : "profilepic.jpeg",
+        "github" : "https://github.com/AunillahKamilRizqi",
+        "project" : "https://github.com/AunillahKamilRizqi",
+        "bio": "Saya seorang Front End Developer dan Data Analsyt",
+        "contactmessage":"Hello, here I am",
+        "email": "aunillahkamilrizqi03@gmail.com",
+        "phone": "858-8733-3931",
+        "address":{
+            "street":"Jl. Buni",
+            "city":"Bekasi",
+            "state":"West Java",
+            "zip": "16024"
+        },
+        "website": "https://github.com/AunillahKamilRizqi",
+        "resumedownload":"https://github.com/AunillahKamilRizqi",
+        "social":[
+            {
+            "name": "facebook",
+            "url": "https://github.com/AunillahKamilRizqi",
+            "className": "fa fa-facebook"
+            },
+            {
+            "name":"twitter",
+            "url":"http://twitter.com",
+            "className":"fa fa-twitter"
+            },
+            {
+            "name":"linkedin",
+            "url":"https://www.linkedin.com/in/Aunillah Kamil Rizqi/",
+            "className":"fa fa-linkedin"
+            },
+            {
+            "name":"instagram",
+            "url":"http://instagram.com/aunillahkamilrizqi",
+            "className":"fa fa-instagram"
+          },
+          {
+            "name":"github",
+            "url":"https://github.com/AunillahKamilRizqi",
+            "className":"fa fa-github"
+          }
+        ]
+    },
+    "resume" : {
+        "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+        "education" : [
+            {
+                "school": "Universitas Bina Sarana Informatika",
+                "degree": "Bachelor degree of Computer Science",
+                "graduated": "Agustus 2024",
+                "description" : "I am joining gemastik competition"
+            },
+            {
+                "school": "SMK Darul Amal",
+                "degree": "Teknik Mesin",
+                "graduated": "May 2020",
+                "description": "I am joining computer olympiad"
+            }
+        ],
+        "work": [
+            {
+                "company" : "PT. Alter Teknologi Informasi",
+                "title" : "Staff Helper",
+                "years": "October 2023 - February 2024",
+                "description": "Mengelola dan menyimpan data secara efisien, termasuk backup dan pemulihan data."
+            }, {
+                "company": "CV. Kallita Enggenering Indonesia",
+                "title": "Operator Produksi",
+                "years": "August 2018 - October 2018",
+                "description": "Bertanggung Jawab dalam mengoperasikan mesin cnc untuk produksi kerangka mesin pneumatic"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "60%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "40%"
+            },
+            {
+                "name": "Database",
+                "level": "70%"
+            }
+        ]
+    },
+    "portfolio":{
+        "projects": [
+            {
+                "title": "Canadian Wanderlust",
+                "category": "My travel blog for my post-university",
+                "image": "01.jpg",
+                "url": "https://www.canadianwanderlust.com"
+            },
+            {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com"
+            },
+            {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+            },
+            {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+            },
+            {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+            },
+            {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+            },
+            {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"01.jpg",
+                "url":"http://www.timbakerdev.com"
+            },
+            {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+            },
+            {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+            },
+            {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+            },
+            {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+                },
+                {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+                }
+        ]
+    }
+}
